@@ -1,0 +1,9 @@
+.blogHover:hover{
+    color:white;
+    background:rgb(30, 32, 46);
+    opacity: .7;
+
+}
+.blogHover:hover img{
+    display: none;
+}

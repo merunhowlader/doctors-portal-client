@@ -1,0 +1,7 @@
+.tstop{
+    background-image: url(../../../images/tsBG.png);
+    background-size: contain ;
+    background-repeat: no-repeat;
+    
+    background-position: center right;
+}
